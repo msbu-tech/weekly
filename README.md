@@ -12,7 +12,7 @@
 * 投稿需要包含：文章标题、文章链接、评语或简介和标签。其中，简介可以引用原文内的句子；标签最好在3-5个左右。
 * 投稿统一在本 Repo 的 Issues 中进行，直接在响应日起的 Issue 中回复，请不要发 PR 给 `msbu-tech.github.io`。
 * 请尊重知识产权，主动抵制_抄袭、侵权和盗版_的内容。
-* MSBU Tech Group 成员每周至少推荐__两篇__；非 MSBU Tech 成员也可以参加，其它 GitHub 用户也可以投稿。后续，可能会在周刊中加入投稿人感谢页面。
+* MSBU Tech Group 成员每周至少推荐__两篇__；非 MSBU Tech 成员也可以参加，其它 GitHub 用户也可以投稿。
 * MSBU Tech Group 成员可以选择加入 `weekly team`，参加项目维护。
 
 ## 投稿
